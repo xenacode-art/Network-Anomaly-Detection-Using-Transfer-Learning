@@ -2,7 +2,7 @@
 
 # Network-Anomaly-Detection
 
-This project aims to provide a setup for anomaly detection in Networking, specifically to detect DDoS attacks
+This project aims to provide a setup for anomaly detection in Networking using transfer learning, specifically to detect DDoS and other attacks on the Network.
 
 <summary>Table of Contents</summary>
 
@@ -13,13 +13,13 @@ This project aims to provide a setup for anomaly detection in Networking, specif
   - [Train Dataset](#Train-Dataset:)
   - [Results](#results)
   - [Visualizing Data with TSNE:](#Visualizing-Data-Relationship-with-TSNE)
-  - [Future Work](#future-work)
+ 
 
 
 ## Introduction
 
 
-Many IoT devices are becoming victims of hackers due to their lack of security and they are often turned into botnets conducting Distributed Denial of Service (DDoS) attacks. We aim to detect those attacks by analyzing their network traffic. 
+Many Internet based devices are becoming victim of hackers due to their lack of security and they are often turned into botnets conducting Distributed Denial of Service (DDoS) attacks. We aim to detect those attacks by analyzing network traffics. 
 
 When designing the model, one has to keep in mind that in a real life scenario, the attack detection is relevant only if it is conducted in a streaming/near real time way.
 
