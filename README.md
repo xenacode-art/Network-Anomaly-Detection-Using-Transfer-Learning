@@ -79,7 +79,19 @@ In this project we are going to test the following Anomaly Detection Techniques 
 
 ## Results
 
-The below result was acheived with AutoEncoder method ![AutoEncoderResults](extra/autoencoder-results.png) 
+
+Below are results obtained with AutoEncoder, Logistic regression, Random Forest Classifier method
+
+![AutoEncoder Results](extra/autoencoder-results.png)
+
+
+
+Logistic Regression Results <img width="916" alt="Screenshot 2023-05-26 144931" src="https://github.com/xenacode-art/Network-Anomaly-Detection-Using-Transfer-Learning/assets/67270054/c310463f-ee4d-49fb-a777-f65ce4357b6c">
+
+
+
+Random Forest Classifier Results<img width="883" alt="Screenshot 2023-05-26 144735" src="https://github.com/xenacode-art/Network-Anomaly-Detection-Using-Transfer-Learning/assets/67270054/73b10721-6e01-44f2-ab2b-fd9730a6c2b5">
+
 
 
 
