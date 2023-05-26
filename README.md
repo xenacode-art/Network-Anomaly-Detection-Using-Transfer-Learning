@@ -178,11 +178,3 @@ Every dot in the following represents a request. Normal transactions are represe
 |----------------|------------|
 |![TSNE](extra/TSNE-1.png) | ![TSNE-1](extra/TSNE-embeddings.png)|
 
-
-## Future Work
-
-- Adding and training more models
-
-- further classifying different kinds of DDoS attacks!
-
-- Creating a semi-supervised loop to update models online while new data is being gathered.
